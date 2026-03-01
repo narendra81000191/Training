@@ -1,5 +1,4 @@
-package com.coforge;
-
+package com.company;
 public class AddCalci {
 	
 	public int add(int a,int b) {

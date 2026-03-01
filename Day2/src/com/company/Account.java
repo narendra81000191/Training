@@ -1,4 +1,4 @@
-package com.coforge;
+package com.company;
 
 abstract public class Account {
 	

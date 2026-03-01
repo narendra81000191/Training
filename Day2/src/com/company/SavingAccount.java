@@ -1,4 +1,4 @@
-package com.coforge;
+package com.company;
 
 public class SavingAccount extends Account{
 	private double minBal;
