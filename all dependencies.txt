@@ -1,0 +1,103 @@
+////////////////////////springframeworkcore////////////
+<!-- Source: https://mvnrepository.com/artifact/org.springframework/spring-core -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>6.2.14</version>
+    <scope>compile</scope>
+</dependency>
+
+
+////////////////////////spring jdbc///////////////////
+<!-- Source: https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-jdbc</artifactId>
+    <version>6.2.14</version>
+    <scope>compile</scope>
+</dependency>
+///////////////////spring frameworkcontext////////////////////////
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>6.2.14</version>
+    <scope>compile</scope>
+</dependency>
+
+
+
+//////////////////Jakartaannotation///////////////
+<dependency>
+    <groupId>jakarta.annotation</groupId>
+    <artifactId>jakarta.annotation-api</artifactId>
+    <version>3.0.0</version>
+    <scope>compile</scope>
+</dependency>
+
+
+
+
+
+/////////////lobok////////////////
+<!-- Source: https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.42</version>
+    <scope>compile</scope>
+</dependency>
+////////Jakarta persistence/////
+<!-- Source: https://mvnrepository.com/artifact/jakarta.persistence/jakarta.persistence-api -->
+<dependency>
+    <groupId>jakarta.persistence</groupId>
+    <artifactId>jakarta.persistence-api</artifactId>
+    <version>3.2.0</version>
+    <scope>compile</scope>
+</dependency>
+/////////sql connection//////////
+<dependency>
+    <groupId>com.mysql</groupId>
+    <artifactId>mysql-connector-j</artifactId>
+    <version>8.4.0</version>
+    <scope>compile</scope>
+</dependency>
+/////////////////////////h2dATABASE//////////
+<!-- Source: https://mvnrepository.com/artifact/com.h2database/h2 -->
+<dependency>
+    <groupId>com.h2database</groupId>
+    <artifactId>h2</artifactId>
+    <version>2.4.240</version>
+    <scope>test</scope>
+</dependency>
+//////////////springbootweb framework//////////
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-web</artifactId>
+    <version>6.2.16</version>
+    <scope>compile</scope>
+</dependency>
+
+
+
+
+/////////////////////spring web mvc//////////////////
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-webmvc</artifactId>
+    <version>6.2.16</version>
+    <scope>compile</scope>
+</dependency>
+
+
+
+
+
+///////////Jakarta servlet//////////////////
+<!-- Source: https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
+<dependency>
+    <groupId>jakarta.servlet</groupId>
+    <artifactId>jakarta.servlet-api</artifactId>
+    <version>6.1.0</version>
+    <scope>provided</scope>
+</dependency>
+
